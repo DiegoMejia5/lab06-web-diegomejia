@@ -1,0 +1,25 @@
+{
+  "name": "lab06-web-diegomejia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoMejia5/lab06-web-diegomejia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoMejia5/lab06-web-diegomejia/issues"
+  },
+  "homepage": "https://github.com/DiegoMejia5/lab06-web-diegomejia#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pug": "^3.0.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
